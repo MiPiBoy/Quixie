@@ -4,7 +4,7 @@
   <p>با قابلیت پردازش دستورات متنی، می‌تونه فقط با یه خط ساده مثل:</p>
   <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 6px;">Task GYM 12:30 13/4</pre>
   <p>تسک رو تشخیص بده، اعتبارسنجی کنه، و مستقیم به دیتابیس ارسال کنه — بدون نیاز به رفتن به فرم‌ها یا صفحات مختلف.</p>
-
+  <img src="https://raw.githubusercontent.com/MiPiBoy/Quixie/refs/heads/main/Banner.png"/>
   <h2>⚙️ ویژگی‌ها</h2>
   <ul>
     <li>تشخیص دستورهای متنی مثل <code>Add Task</code>، <code>Delete Note</code>، <code>Update Task</code></li>
