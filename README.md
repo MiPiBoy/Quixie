@@ -1,5 +1,5 @@
 <section style="font-family: sans-serif; line-height: 1.8; max-width: 700px; margin: auto;">
-  <h1>🧠 Quixie</h1>
+  <h1><img src="https://raw.githubusercontent.com/MiPiBoy/Quixie/refs/heads/main/Logo.svg"/> Quixie</h1>
   <p><strong>دستیار متنی هوشمند برای مدیریت سریع تسک‌ها</strong></p>
   <p>با قابلیت پردازش دستورات متنی، می‌تونه فقط با یه خط ساده مثل:</p>
   <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 6px;">Task GYM 12:30 13/4</pre>
